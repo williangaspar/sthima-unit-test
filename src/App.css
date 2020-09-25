@@ -1,0 +1,18 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.AppContainer {
+  border: solid 2px;
+  border-radius: 15px;
+  padding: 10px;
+}
+
+.Exchange {
+  font-size: 18pt;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}

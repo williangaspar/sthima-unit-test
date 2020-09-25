@@ -1,0 +1,15 @@
+.Container {
+  display: flex;
+  width: 200px;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.NumberContainer {
+  font-size: 20pt;
+  margin: 10px;
+}
+
+.CounterButton {
+  width: 40px;
+}
